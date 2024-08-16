@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1723825601 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\main.cpp
+	<iostream>
+	"servidor.cpp"
+
+1723826006 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\servidor.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<string>
+
+1723828816 d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\servidor.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<string>
+

@@ -1,0 +1,1 @@
+ g++ main.cpp -o servidor -lws2_32
